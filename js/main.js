@@ -1,5 +1,5 @@
 /*************************
-This is one option for solving this exercise
+Method 1. This is one option for solving this exercise
 *************************/
 let wrapper = document.getElementById("wrapper");
 let cardRight = document.getElementById("cardRight");
@@ -40,7 +40,7 @@ wrapper.addEventListener("click", () => {
 
 
 /*************************
-This is a second option for solving this exercise
+Method 2. This is a second option for solving this exercise
 *************************/
 
 // let wrapper = document.getElementById("wrapper");
@@ -61,9 +61,6 @@ This is a second option for solving this exercise
 // 	var card = document.getElementById("outputContent");
 // 	card.remove();
 // }
-
-
-
 
 
 // wrapper.addEventListener("click", () => {
